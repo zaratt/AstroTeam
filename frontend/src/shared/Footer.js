@@ -5,9 +5,9 @@ const Footer = () => {
     <footer className="footer">
       <div className="content has-text-centered">
         <p>
-          <strong className="title-secondary is-size-4">ASTRO-TEAM 2020</strong>
+          <strong className="title-secondary is-size-4">TEXTO 2021</strong>
         </p>
-        &copy; All right reserved
+        &copy; Todos os direitos reservados
       </div>
     </footer>
   );
